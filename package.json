@@ -1,0 +1,13 @@
+{
+  "name": "simpleREST",
+  "version": "1.0.0",
+  "description": "Serve simple Node.js API by using MongoDB and Express",
+  "main": "server.js",
+  "repository": "git@github.com:DenisNazarenko/simpleREST.git",
+  "author": "Denis Nazarenko <dnazarex@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9"
+  }
+}
